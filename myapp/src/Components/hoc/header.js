@@ -21,7 +21,7 @@ const Header = () => {
           style={{
             
                     backgroundColor:'black',
-                    opacity:'0.6',
+                    opacity:'0.75',
                     boxShadow: 'none',
                     padding:'10px 0',
                     borderBottom: '2px solid #00285e'
