@@ -2,7 +2,8 @@ import React from 'react';
 
 const Des = () => {
     return (
-        <div className="description col-lg-12 col-sm-12 col-md-12">
+        <div className="row">
+        <div className="col-lg-12 col-sm-12 col-md-12 description">
             <div className="circle">
             </div>
             <p>SPIC MACAY (Society for the Promotion of Indian Classical Music And Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 
@@ -14,6 +15,7 @@ const Des = () => {
                For this, the most accomplished artistes of the country render programmes of Indian classical music and dance, folk, poetry, 
                theatre, traditional paintings, crafts & yog primarily in schools and colleges.
                In 2011, SPIC MACAY was awarded the Rajiv Gandhi Sadbhavana award in recognition of its contribution to youth development.</p>
+        </div>
         </div>
     );
 };

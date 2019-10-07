@@ -8,6 +8,7 @@
     "react": "^16.10.2",
     "react-coverflow": "^0.2.20",
     "react-dom": "^16.10.2",
+    "react-image-gallery": "^0.9.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
