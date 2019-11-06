@@ -3,17 +3,16 @@ import Carousel from './carousel';
 import Des from './description';
 import Team from './team';
 import My from './images';
-import Vider from '../resources/images/kite.mp4'
+import Infoone from './infoone';
 
 class Home extends Component {
     render() {
         return (
             <div>
-                <Carousel/>
-                
-                    
+                <Carousel/>    
                 <Des/>
                 <My/>
+                <Infoone/>
                 <Team/>
                    
                </div>

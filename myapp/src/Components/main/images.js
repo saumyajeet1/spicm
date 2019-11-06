@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class images extends Component {
     render() {
         return (
-<div className="row">            
+<div className="row" id="gallery">            
                 <div className="row">
                   <div>
                  

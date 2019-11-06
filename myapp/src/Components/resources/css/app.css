@@ -20,6 +20,14 @@
     position:fixed;
     z-index: -1;
 }
+#write{
+    font-family: algerian;
+    color: azure;
+    font-size:20px;
+    font-weight:500;
+    text-align: center;
+
+}
 .des{
     font-family: sans-serif;
     font-weight: 400;
@@ -27,7 +35,14 @@
     color:white
 }
 
-
+.infoone{
+    background-image: url("kitefly1.jpg"); 
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-clip: border-box; 
+    background-size: cover;  
+    height:300px;
+}
 figure:hover{
 z-index: 2;
 opacity:1;
