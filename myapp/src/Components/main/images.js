@@ -5,7 +5,10 @@ class images extends Component {
         return (
 <div className="row">            
                 <div className="row">
-                <h2 style={{fontFamily:"algerian",textAlign:"center"}}>GALLERY</h2>
+                  <div>
+                 
+                <h3 style={{fontFamily:"algerian"}}>GALLERY</h3>
+                </div>
   <div className="col-lg-12 col-md-12 col-sm-12 tea">
       
     <div id="mdb-lightbox-ui"></div>

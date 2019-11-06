@@ -26,6 +26,9 @@
     overflow: hidden;
     margin-bottom: 30px;
 }
+.nam{
+z-index:-0.5;
+}
 
 
 .circle{
