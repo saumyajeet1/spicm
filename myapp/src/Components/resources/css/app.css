@@ -26,6 +26,16 @@
     font-size: 20px;
     color:white
 }
+
+
+figure:hover{
+z-index: 2;
+opacity:1;
+width:80px;
+}
+figure:hover .c{
+    z-index: 2;
+    }
 .tea{
 
     margin-top: 90px;
