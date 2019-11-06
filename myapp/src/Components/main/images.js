@@ -7,7 +7,7 @@ class images extends Component {
                 <div className="row">
                   <div>
                  
-                <h3 style={{fontFamily:"algerian"}}>GALLERY</h3>
+                <h3 style={{fontFamily:"algerian",textAlign:"center",fontWeight:"800",fontSize:"30px"}}>GALLERY</h3>
                 </div>
   <div className="col-lg-12 col-md-12 col-sm-12 tea">
       

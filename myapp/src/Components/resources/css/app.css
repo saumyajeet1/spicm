@@ -20,6 +20,12 @@
     position:fixed;
     z-index: -1;
 }
+.des{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+ 
+}
 .tea{
 
     margin-top: 90px;
