@@ -6,7 +6,7 @@ import third from '../resources/images/3.jpg'
 import Coverflow from 'react-coverflow'
 const Team = () => {
     return (
-        <div className="row">
+        <div className="row" id="myteam">
         <div className="col-lg-12 col-sm-12 col-md-12 tea">
             <h2 style={{fontFamily:"algerian",textAlign:"center"}}>Meet the Team</h2>
             <Coverflow width="400" height="250"

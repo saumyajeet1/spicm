@@ -40,16 +40,16 @@ const Header = () => {
          </Link>
             </div>
             <div>
-         <Link to="#image">
+         <Link to="#gallery">
              <Button color="inherit" style={{fontWeight:'800',fontSize:'12px'}}>
-                 GALLERY
+             <a href="#gallery">GALLERY</a>     
              </Button>
          </Link>
             </div>
             <div>
          <Link to="#myteam">
              <Button color="inherit" style={{fontWeight:'800',fontSize:'12px'}}>
-                 TEAM
+                 <a href="#team">TEAM</a>
              </Button>
          </Link>
             </div>
