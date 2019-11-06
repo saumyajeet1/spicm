@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className="row footer" style={{background:"grey"}}>
+        <div className="row footer" style={{background:"black",opacity:"0.7"}}>
             <div className="row">
             <div className="col-lg-6 email">
                 <div className="row">
