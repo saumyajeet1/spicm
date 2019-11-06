@@ -14,7 +14,7 @@ class Home extends Component {
                     
                 <Des/>
                 <My/>
-                   <Team/>
+                <Team/>
                    
                </div>
         );
