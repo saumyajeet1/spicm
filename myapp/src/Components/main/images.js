@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import Flip from 'react-reveal/Flip';
 
 class images extends Component {
     render() {
         return (
-<div className="row" id="gallery">            
+          
+<div className="row" id="gallery">
+<Flip right>            
                 <div className="row">
                   <div>
                  
@@ -82,6 +85,7 @@ class images extends Component {
 
   </div>
 </div>
+</Flip>
 </div>
             
         );

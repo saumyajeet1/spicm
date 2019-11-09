@@ -15,7 +15,7 @@ const Footer = () => {
                 <div className="row">
                     
                 <div className=" col-lg-2 title"></div>
-                <div className=" col-lg-5 title"><p className="des"><FontAwesomeIcon icon={faEnvelope} className="icon"/>Email:-</p></div>
+                <div className=" col-lg-5 title"><p className="des" style={{fontFamily:"algerian",fontSize:"25"}}><FontAwesomeIcon icon={faEnvelope} className="icon"/>Email:-</p></div>
                 <div className="col-lg-5 info"><p className="des">xxxxx@gmail.com</p></div>
                 </div>
             </div>
@@ -27,7 +27,7 @@ const Footer = () => {
                                     className="icon"
                                 />
                                 Contact:-</p></div>
-                <div className="col-lg-5 info"><p className="des">1111111111</p></div>
+                <div className="col-lg-5 info"><p className="des" style={{fontFamily:"algerian",fontSize:"25"}}>1111111111</p></div>
                 </div>
             </div>
             </div>
@@ -36,19 +36,19 @@ const Footer = () => {
                 <div className="row">
                     
                 <div className=" col-lg-2 title"></div>
-                <div className=" col-lg-5 title"><p className="des"><FontAwesomeIcon icon={faInstagram} className="icon"/>Email:-</p></div>
-                <div className="col-lg-5 info"><p className="des">xxxxx@gmail.com</p></div>
+                <div className=" col-lg-5 title"><p className="des" style={{fontFamily:"algerian",fontSize:"25"}}><FontAwesomeIcon icon={faInstagram} className="icon"/> Insatgram:-</p></div>
+                <div className="col-lg-5 info"><p className="des" style={{fontFamily:"algerian",fontSize:"25"}}>xxxxx@gmail.com</p></div>
                 </div>
             </div>
             <div className="col-lg-6 contact">
                 <div className="row">
                 <div className=" col-lg-2 title"></div>
-                <div className=" col-lg-5 title"><p  className="des"> <FontAwesomeIcon
+                <div className=" col-lg-5 title"><p  className="des" style={{fontFamily:"algerian",fontSize:"25"}}> <FontAwesomeIcon
                                     icon={faFacebook}
                                     className="icon"
                                 />
-                                Contact:-</p></div>
-                <div className="col-lg-5 info"><p className="des">1111111111</p></div>
+                                Facebook:-</p></div>
+                <div className="col-lg-5 info"><p className="des" style={{fontFamily:"algerian",fontSize:"25"}}>1111111111</p></div>
                 </div>
             </div>
             </div>
@@ -56,13 +56,13 @@ const Footer = () => {
             <div className="col-lg-6 title">
                 <div className="row">
                 <div className=" col-lg-2 title"></div>
-                <div className="col-lg-10 title"><p className="des">SPICMACAY</p></div>
+                <div className="col-lg-10 title"><p className="des" style={{fontFamily:"algerian",fontSize:"35"}}>SPICMACAY</p></div>
                 </div>
             </div>
             <div className="col-lg-6 title">
                 <div className="row">
                 <div className=" col-lg-2 title"></div>
-                <div className=" col-lg-10 title"><p className="des">An MHRD Club</p></div>
+                <div className=" col-lg-10 title"><p className="des" style={{fontFamily:"algerian",fontSize:"35"}}>An MHRD Club</p></div>
                 </div>
             </div>
             </div>

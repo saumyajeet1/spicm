@@ -4,6 +4,7 @@ import Des from './description';
 import Team from './team';
 import My from './images';
 import Infoone from './infoone';
+import Infotwo from './infotwo';
 
 class Home extends Component {
     render() {
@@ -11,10 +12,10 @@ class Home extends Component {
             <div>
                 <Carousel/>    
                 <Des/>
+                <Infotwo/>
                 <My/>
                 <Infoone/>
                 <Team/>
-                   
                </div>
         );
     }
