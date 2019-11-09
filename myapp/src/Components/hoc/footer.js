@@ -9,7 +9,7 @@ import {faInstagram} from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
     return (
-        <div className="row footer" style={{background:"black",opacity:"0.7"}}>
+        <div className="row footer" style={{background:"black",opacity:"0.7",maxWidth:"900px",margin:"auto"}}>
             <div className="row">
             <div className="col-lg-6 email">
                 <div className="row">

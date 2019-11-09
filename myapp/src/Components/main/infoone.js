@@ -4,7 +4,7 @@ import Bounce from 'react-reveal/Bounce';
 const Infoone = () => {
     return (
 
-        <div className="infoone row">
+        <div className="infoone row" style={{maxWidth:"800px", margin:"auto"}}>
         <Bounce duration={3000}>
             <div className="col-lg-12" id="write">
             <p></p>

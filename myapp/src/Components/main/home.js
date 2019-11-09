@@ -9,7 +9,9 @@ import Infotwo from './infotwo';
 class Home extends Component {
     render() {
         return (
-            <div>
+            <div className="row">
+                <div className="col-lg-2">                                </div>
+            <div  style={{maxWidth:"900px",margin:"auto",border:"2px solid black",background:"#00FF7F"}}>
                 <Carousel/>    
                 <Des/>
                 <Infotwo/>
@@ -17,6 +19,10 @@ class Home extends Component {
                 <Infoone/>
                 <Team/>
                </div>
+               
+               <div className="col-lg-2"></div>
+               </div>
+               
         );
     }
 }

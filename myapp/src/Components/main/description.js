@@ -3,12 +3,12 @@ import Roll from 'react-reveal/Roll';
 
 const Des = () => {
     return (
-        <div className="row">
+        <div className="row" style={{maxWidth:"800px", margin:"auto"}}>
            
-        <div className="col-lg-12 col-sm-12 col-md-12 description">
+        <div className="col-lg-12 col-sm-12 col-md-12 description" >
             <div className="circle">
             </div>
-            <Roll  left cascade duration={4000}>
+            <Roll  left cascade duration={3000}>
             <p>SPIC MACAY (Society for the Promotion of Indian Classical Music And Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 
                 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009.
                SPICMACAY’s intention is to enrich the quality of formal education by increasing awareness about different aspects of Indian heritage 

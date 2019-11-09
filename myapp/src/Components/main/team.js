@@ -11,7 +11,7 @@ const Team = () => {
         <div className="row" id="myteam">
           <LightSpeed>
         <div className="col-lg-12 col-sm-12 col-md-12 tea">
-            <h2 style={{fontFamily:"algerian",textAlign:"center"}}>Meet the Team</h2>
+            <h2 style={{fontFamily:"algerian",textAlign:"center",color:"#800000"}}>Meet the Team</h2>
             <Coverflow width="400" height="250"
     displayQuantityOfSide={2}
     navigation={false}

@@ -4,16 +4,16 @@
 
 .description{
 
-    border:2px groove brown;
-    border-radius: 5px;
+    border:1px groove brown;
+    border-radius: 5px; 
         margin:30px;
-        margin-top: 90px;
+        margin-top: 90px; 
         overflow: hidden;
         font-family: 'Big Shoulders Display', cursive;
         font-size:20px;
         font-style: oblique;
         font-weight:800;
-        margin-bottom: 30px;
+      
 }
 
 #vid{
@@ -44,7 +44,7 @@ color:blue;
     background-image: url("kitefly1.jpg"); 
     background-attachment: fixed;
     background-repeat:no-repeat;
-    background-clip: border-box; 
+ 
     background-size: cover;  
     height:300px;
 }
@@ -56,14 +56,20 @@ width:80px;
 figure:hover .c{
     z-index: 2;
     }
-.tea{
-
+.tea{ 
     margin-top: 90px;
     overflow: hidden;
-    margin-bottom: 30px;
+    margin-bottom: 30px; 
 }
 .nam{
 z-index:-0.5;
+}
+body{
+
+    background-image: url("p.jpg");
+    background-repeat:no-repeat;
+ 
+    background-size:cover;  
 }
 
 
