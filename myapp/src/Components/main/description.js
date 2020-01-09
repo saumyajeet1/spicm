@@ -3,7 +3,7 @@ import Roll from 'react-reveal/Roll';
 
 const Des = () => {
     return (
-        <div className="row" style={{maxWidth:"800px", margin:"auto"}}>
+        <div className="row" style={{maxWidth:"900px", margin:"auto"}}>
            
         <div className="col-lg-12 col-sm-12 col-md-12 description" >
             <div className="circle">
